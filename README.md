@@ -1,6 +1,6 @@
 # Hey, There 👋
 
-I'm Ferdinand, Undergraduate student at **Politeknik Negeri Subang** who enjoys building backend systems and figuring out how things work under the hood. Currently focused on distributed systems, microservices, and getting better at Go and Java.
+I'm Ferdinand, Undergraduate student at **Politeknik Negeri Subang** who enjoys building backend systems and figuring out how things work under the hood. Currently focused on distributed systems, backend, microservices.
 
 ---
 
